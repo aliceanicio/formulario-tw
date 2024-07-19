@@ -64,7 +64,7 @@ body {
   justify-content: space-between;
 }
 
-.password-field {
+.password-field a {
   color: #206bc4;
   text-decoration: none;
 }
@@ -76,6 +76,7 @@ body {
   color: #fff;
   border: none;
   border-radius: 4px;
+  font-size: 1rem;
 }
 
 .form-content button:hover {
